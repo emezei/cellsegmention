@@ -8,7 +8,7 @@ This project was created to provide a medical application that can process an im
 
 ## Requirements / Environments <a name="reqirements"></a>
 ---
-- Python (>= 3.9.1)
+- Python (>= 3.7)
 - Python development environment, e.g. Anaconda Navigator
 - Matlab Runtime 9.8
 
