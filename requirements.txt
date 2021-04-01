@@ -1,4 +1,5 @@
 alabaster==0.7.12
+altgraph==0.17
 appdirs==1.4.4
 Babel==2.9.0
 backcall==0.2.0
@@ -12,6 +13,7 @@ dask==2021.1.0
 decorator==4.4.2
 docutils==0.16
 freetype-py==2.2.0
+future==0.18.2
 h5py==3.1.0
 HeapDict==1.0.1
 idna==2.10
@@ -36,17 +38,22 @@ napari==0.4.3
 napari-plugin-engine==0.1.9
 napari-svg==0.1.4
 networkx==2.5
+numba==0.52.0
 numpy==1.19.5
 numpydoc==1.1.0
 olefile==0.46
 opencv-python==4.5.1.48
 packaging==20.8
 parso==0.8.1
+pefile==2019.4.18
 pickleshare==0.7.5
+Pillow==8.1.0
 prompt-toolkit==3.0.13
 protobuf==3.14.0
 psutil==5.8.0
 Pygments==2.7.4
+pyinstaller==4.2
+pyinstaller-hooks-contrib==2021.1
 PyOpenGL==3.1.5
 pyparsing==2.4.7
 PyQt5==5.15.2
@@ -56,6 +63,7 @@ python-dateutil==2.8.1
 pytz==2020.5
 PyWavelets==1.1.1
 pywin32==300
+pywin32-ctypes==0.2.0
 PyYAML==5.4.1
 pyzmq==21.0.1
 qtconsole==5.0.2
@@ -64,7 +72,9 @@ requests==2.25.1
 scikit-image==0.18.1
 scikit-learn==0.24.1
 scipy==1.6.0
+segmentify @ file:///C:/Users/Korn%C3%A9l/source/repos/segmentify
 Shapely==1.7.1
+six==1.15.0
 snowballstemmer==2.1.0
 Sphinx==3.4.3
 sphinxcontrib-applehelp==1.0.2
@@ -81,6 +91,7 @@ torch==1.7.1
 tornado==6.1
 tqdm==4.56.0
 traitlets==5.0.5
+typing-extensions==3.7.4.3
 urllib3==1.26.2
 vispy==0.6.6
 wcwidth==0.2.5
